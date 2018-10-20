@@ -17,6 +17,7 @@
   "directories": {
     "lib": "./lib"
   },
+  "main": "./lib/obd.js",
   "devDependencies": {},
   "engines": {
     "node": ">= 0.8.x",
